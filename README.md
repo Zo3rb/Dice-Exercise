@@ -1,3 +1,6 @@
+# Check Liver [HERE](https://dice-exercise-colt.netlify.com/) .. You Don't have to Download this Exercise
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
